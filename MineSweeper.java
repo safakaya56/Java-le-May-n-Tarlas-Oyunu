@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class MayinTarlasi {
+public class MineSweeper {
     Random random = new Random();
     Scanner scanner = new Scanner(System.in);
 
@@ -83,7 +83,7 @@ public class MayinTarlasi {
 
         Object[][] matris = new Object[boyut][boyut];
 
-        MayinTarlasi mayinTarlasi = new MayinTarlasi();
+        MineSweeper mayinTarlasi = new MineSweeper();
         mayinTarlasi.oyun(matris, boyut);
     }
 }
