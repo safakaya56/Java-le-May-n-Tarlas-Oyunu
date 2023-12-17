@@ -1,2 +1,1 @@
-# Java-le-May-n-Tarlas-Oyunu
-Java ile Yazılmış Mayın Tarlası Oyunu
+Bu Java Mayın Tarlası oyunu, kullanıcının bir matris üzerinde rastgele yerleştirilmiş mayınlardan kaçınarak oynamasına dayanır. Kullanıcı, satır ve sütun numaralarını girdiği bir dizi hücreden oluşan bir matrisle etkileşime girer. Mayın bulduğunda oyun biter ve kullanıcıya "Oyun Bitti!" mesajı ile birlikte mayınların yerini gösteren bir matris sunulur. Eğer tüm mayınlardan kaçınılmışsa, "Kazandınız!" mesajı ekrana yazdırılır. 
